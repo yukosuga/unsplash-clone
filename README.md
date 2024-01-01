@@ -7,6 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-a9a9a9?style=for-the-badge&logo=CSS3)  
 ![Static Badge](https://img.shields.io/badge/JavaScript-a9a9a9?style=for-the-badge&logo=JavaScript)  
 ![Static Badge](https://img.shields.io/badge/React-a9a9a9?style=for-the-badge&logo=React)  
+![Static Badge](https://img.shields.io/badge/Axios-a9a9a9?style=for-the-badge&logo=Axios)  
 ![Static Badge](https://img.shields.io/badge/Vite-a9a9a9?style=for-the-badge&logo=Vite)  
 ![Static Badge](https://img.shields.io/badge/Vercel-a9a9a9?style=for-the-badge&logo=Vercel)  
 
